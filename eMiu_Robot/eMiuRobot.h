@@ -9,7 +9,7 @@
 	#include "WProgram.h"
 #endif
 
-#include "Servo.h"
+#include <Servo.h> // change to "Servo.h" if you build on Visual Studio
 
 enum Direction
 {
